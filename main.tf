@@ -1,6 +1,6 @@
 module "jx" {
   source = "github.com/jenkins-x/terraform-google-jx"
-  gcp_project = "<my-gcp-project-id>"
+  gcp_project = "spring-asset-336120"
   jx2 = false
 }
 

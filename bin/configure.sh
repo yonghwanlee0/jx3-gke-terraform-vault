@@ -6,7 +6,7 @@ if [ -z $PROJECT_ID ]
 then
   echo "Please supply the 'PROJECT_ID' environment variable for your GCP Project ID"
   echo "e.g."
-  echo "export PROJECT_ID=myproject"
+  echo "export PROJECT_ID=spring-asset-336120"
   exit 1
 fi
 
